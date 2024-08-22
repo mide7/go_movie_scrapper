@@ -7,9 +7,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mide7/go/movie_scrapper/internal/models"
-	"github.com/mide7/go/movie_scrapper/internal/services"
-	"github.com/mide7/go/movie_scrapper/internal/sites"
+	"github.com/mide7/go_movie_scrapper/internal/models"
+	"github.com/mide7/go_movie_scrapper/internal/services"
+	"github.com/mide7/go_movie_scrapper/internal/sites"
 	"go.mongodb.org/mongo-driver/mongo"
 )
 

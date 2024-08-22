@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/mide7/go/movie_scrapper/internal/models"
+	"github.com/mide7/go_movie_scrapper/internal/models"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"

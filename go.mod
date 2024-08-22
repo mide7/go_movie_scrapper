@@ -1,4 +1,4 @@
-module github.com/mide7/go/movie_scrapper
+module github.com/mide7/go_movie_scrapper
 
 go 1.22.5
 

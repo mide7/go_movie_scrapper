@@ -7,7 +7,7 @@ import (
 
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
-	"github.com/mide7/go/movie_scrapper/internal/services"
+	"github.com/mide7/go_movie_scrapper/internal/services"
 	"go.mongodb.org/mongo-driver/mongo"
 )
 

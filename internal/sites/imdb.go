@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/mide7/go/movie_scrapper/internal/models"
+	"github.com/mide7/go_movie_scrapper/internal/models"
 )
 
 func ImdbGetUpcomingMovies() (*[]models.Movie, error) {

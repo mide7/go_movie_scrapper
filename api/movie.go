@@ -5,8 +5,8 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/mide7/go/movie_scrapper/internal/services"
-	"github.com/mide7/go/movie_scrapper/internal/utils"
+	"github.com/mide7/go_movie_scrapper/internal/services"
+	"github.com/mide7/go_movie_scrapper/internal/utils"
 )
 
 type MovieApiHandler struct {
